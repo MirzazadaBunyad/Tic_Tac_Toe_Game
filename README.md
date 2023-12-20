@@ -1,6 +1,6 @@
 I made this game using React.js useState, useRef and useEffect hooks.
 
-Download the Node module package by first opening it in your editor and using the "npm install" command and then open the game in your browser with the "npm run dev" command.
+Download the node module package by first opening it in your editor and using the "npm install" command and then open the game in your browser with the "npm run dev" command.
 
 # React + Vite
 
